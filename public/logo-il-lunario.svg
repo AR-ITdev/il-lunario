@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="768" viewBox="0 0 768 768">
+  <title>Il Lunario</title>
+  <circle cx="384" cy="384" r="345" fill="#f3ecd6" stroke="#cdb88c" stroke-width="3"/>
+  <circle cx="384" cy="384" r="318" fill="none" stroke="#bf9039" stroke-width="40"/>
+  <g>
+    <circle cx="384" cy="66" r="6.5" fill="#f3ecd6"/>
+    <circle cx="452.36" cy="73.43" r="6.5" fill="#f3ecd6"/>
+    <circle cx="517.52" cy="95.39" r="6.5" fill="#f3ecd6"/>
+    <circle cx="576.45" cy="130.84" r="6.5" fill="#f3ecd6"/>
+    <circle cx="626.37" cy="178.13" r="6.5" fill="#f3ecd6"/>
+    <circle cx="664.96" cy="235.05" r="6.5" fill="#f3ecd6"/>
+    <circle cx="690.41" cy="298.93" r="6.5" fill="#f3ecd6"/>
+    <circle cx="701.53" cy="366.78" r="6.5" fill="#f3ecd6"/>
+    <circle cx="697.81" cy="435.45" r="6.5" fill="#f3ecd6"/>
+    <circle cx="679.41" cy="501.7" r="6.5" fill="#f3ecd6"/>
+    <circle cx="647.21" cy="562.46" r="6.5" fill="#f3ecd6"/>
+    <circle cx="602.69" cy="614.87" r="6.5" fill="#f3ecd6"/>
+    <circle cx="547.95" cy="656.48" r="6.5" fill="#f3ecd6"/>
+    <circle cx="485.54" cy="685.35" r="6.5" fill="#f3ecd6"/>
+    <circle cx="418.38" cy="700.14" r="6.5" fill="#f3ecd6"/>
+    <circle cx="349.62" cy="700.14" r="6.5" fill="#f3ecd6"/>
+    <circle cx="282.46" cy="685.35" r="6.5" fill="#f3ecd6"/>
+    <circle cx="220.05" cy="656.48" r="6.5" fill="#f3ecd6"/>
+    <circle cx="165.31" cy="614.87" r="6.5" fill="#f3ecd6"/>
+    <circle cx="120.79" cy="562.46" r="6.5" fill="#f3ecd6"/>
+    <circle cx="88.59" cy="501.7" r="6.5" fill="#f3ecd6"/>
+    <circle cx="70.19" cy="435.45" r="6.5" fill="#f3ecd6"/>
+    <circle cx="66.47" cy="366.78" r="6.5" fill="#f3ecd6"/>
+    <circle cx="77.59" cy="298.93" r="6.5" fill="#f3ecd6"/>
+    <circle cx="103.04" cy="235.05" r="6.5" fill="#f3ecd6"/>
+    <circle cx="141.63" cy="178.13" r="6.5" fill="#f3ecd6"/>
+    <circle cx="191.55" cy="130.84" r="6.5" fill="#f3ecd6"/>
+    <circle cx="250.48" cy="95.39" r="6.5" fill="#f3ecd6"/>
+    <circle cx="315.64" cy="73.43" r="6.5" fill="#f3ecd6"/>
+  </g>
+  <circle cx="384" cy="384" r="252" fill="none" stroke="#1b1a17" stroke-width="7"/>
+  <path d="M 368.62 222 A 172 172 0 1 0 522.87 468.84 A 146 146 0 1 1 368.62 222 Z" fill="#14243a" stroke="#1b1a17" stroke-width="9" stroke-linejoin="round"/>
+  <polygon points="457.84,281.61 473.13,322.57 516.81,324.45 482.57,351.64 494.29,393.77 457.84,369.61 421.4,393.77 433.12,351.64 398.88,324.45 442.56,322.57" fill="#d0a24a" stroke="#1b1a17" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M 527.84 241.61 Q 533.6 259.85 551.84 265.61 Q 533.6 271.37 527.84 289.61 Q 522.08 271.37 503.84 265.61 Q 522.08 259.85 527.84 241.61 Z" fill="#d0a24a" stroke="#1b1a17" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="515.84" cy="435.61" r="9" fill="#d0a24a" stroke="#1b1a17" stroke-width="4"/>
+</svg>
