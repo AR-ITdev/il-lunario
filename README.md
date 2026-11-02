@@ -37,8 +37,9 @@ npm start
   `public/logo-il-lunario.png` (768×768) è usato in header, footer e favicon.
 - Le fotografie sono immagini di repertorio caricate da Unsplash tramite
   `next/image` (dominio consentito in `next.config.mjs`) e non ritraggono il
-  negozio immaginario. I font Google sono gestiti da `next/font`: dev e build
-  richiedono una connessione.
+  negozio immaginario. Le immagini dei prodotti sono illustrative e non
+  riproducono necessariamente le copertine o gli articoli descritti. I font
+  Google sono gestiti da `next/font`: dev e build richiedono una connessione.
 - Il modulo contatti valida i campi e prepara il messaggio solo nel browser,
   con copia negli appunti: non invia email e non salva dati.
 - Le animazioni (cielo stellato, stelle cadenti, timbro, cursore a bacchetta
